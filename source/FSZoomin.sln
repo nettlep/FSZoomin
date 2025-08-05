@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FSZoomin", "FSZoomin.vcproj", "{7372F881-9676-4A8B-B4D3-BA6CD0F10C61}"
+EndProject
+Global
+	GlobalSection(SolutionNotes) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7372F881-9676-4A8B-B4D3-BA6CD0F10C61}.Debug.ActiveCfg = Debug|Win32
+		{7372F881-9676-4A8B-B4D3-BA6CD0F10C61}.Debug.Build.0 = Debug|Win32
+		{7372F881-9676-4A8B-B4D3-BA6CD0F10C61}.Release.ActiveCfg = Release|Win32
+		{7372F881-9676-4A8B-B4D3-BA6CD0F10C61}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
